@@ -1,0 +1,2 @@
+E:\RRR\Examples\Kendo deail grid\Kendo deail grid\obj\Debug\Kendo deail grid.csprojResolveAssemblyReference.cache
+E:\GitHub\Kendo deail grid\Kendo deail grid\obj\Debug\Kendo deail grid.csprojResolveAssemblyReference.cache
