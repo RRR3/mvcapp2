@@ -96,8 +96,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\HtmlHelperExtensions.cs" />
-    <Compile Include="Controllers\EnterTimeController.cs" />
-    <Compile Include="Controllers\TimeEntry.cs" />
+    <Compile Include="Controllers\DefaultController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
