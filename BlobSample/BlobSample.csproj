@@ -64,6 +64,8 @@
     <Compile Include="Impl\BaseBlob.cs" />
     <Compile Include="Impl\BaseBlobStorage.cs" />
     <Compile Include="Impl\ByteArrayBlob.cs" />
+    <Compile Include="Impl\IQueue.cs" />
+    <Compile Include="Impl\ITable.cs" />
     <Compile Include="Impl\SageBlobStorage.cs" />
     <Compile Include="Interfaces\IBlobStorage.cs" />
     <Compile Include="Impl\StreamBlob.cs" />
